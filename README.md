@@ -1,0 +1,1 @@
+Lottery smartcontract built with the huge help of Patrick Collins and FreeCodeCamp !
